@@ -68,11 +68,11 @@ int main(){
         for(size_t i = 0; i <= 100;i++){
             printf("%i\n", v[i]);
         }
-        
-
+        */
+         
         printf("Número de loops: %d\n", loop);
         printf("Tempo: %f segundos\n", mediasegg);
-        */
+        
 
         looptotal = looptotal + loop;
         tempototal = tempototal + mediasegg;
